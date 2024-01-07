@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .clock-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .clock {
+    font-size: 24px;
+    margin: 0 20px;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 16px;
+    margin: 5px;
+  }
+  
